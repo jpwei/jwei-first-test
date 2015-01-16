@@ -1,4 +1,4 @@
-libgit2 - the Git linkable library
+Test-libgit2 - the Git linkable library
 ==================================
 
 [![Travis Build Status](https://secure.travis-ci.org/libgit2/libgit2.svg?branch=master)](http://travis-ci.org/libgit2/libgit2)
