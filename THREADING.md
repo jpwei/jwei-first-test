@@ -1,3 +1,4 @@
+This is a test
 Threads in libgit2
 ==================
 
